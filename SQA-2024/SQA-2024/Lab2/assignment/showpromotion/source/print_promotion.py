@@ -46,6 +46,7 @@ if __name__ == "__main__":
     print(print_promotion(150))
     print(print_promotion(500))
     print(print_promotion(700))
+    print(print_promotion(699))
     print(print_promotion(1200))
     print(print_promotion(2400))
     print(print_promotion("abc"))
